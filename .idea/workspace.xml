@@ -39,7 +39,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\akhil\\Downloads\\saas-app-main\\community service project\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "F:\\WebStorm 2025.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,7 +83,7 @@
       <updated>1749791016234</updated>
       <workItem from="1749791018474" duration="6589000" />
       <workItem from="1750167754547" duration="559000" />
-      <workItem from="1750313543599" duration="928000" />
+      <workItem from="1750313543599" duration="1297000" />
     </task>
     <servers />
   </component>
