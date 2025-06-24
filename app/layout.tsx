@@ -10,7 +10,7 @@ const bricolage = Bricolage_Grotesque({
 });
 
 export const metadata: Metadata = {
-  title: "Converso",
+  title: "Amar_Learn",
   description: "Real-time AI Teaching Platform",
 };
 

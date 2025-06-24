@@ -1,5 +1,5 @@
 {
-  "name": "jsm_saas_app",
+  "name": "Amar_Learn",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,7 +17,7 @@
     "@radix-ui/react-label": "^2.1.6",
     "@radix-ui/react-select": "^2.2.4",
     "@radix-ui/react-slot": "^1.2.2",
-    "@sentry/nextjs": "^9.22.0",
+    "@sentry/nextjs": "^9.31.0",
     "@supabase/supabase-js": "^2.50.0",
     "@vapi-ai/web": "^2.3.5",
     "class-variance-authority": "^0.7.1",
