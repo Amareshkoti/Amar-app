@@ -18,7 +18,6 @@ const Profile = async () => {
   const user = await currentUser();
 
   if (!user) redirect("/sign-in");
-
   const companions = await getUserCompanions(user.id);
   const sessionHistory = await getUserSessions(user.id);
   const bookmarkedCompanions = await getBookmarkedCompanions(user.id);

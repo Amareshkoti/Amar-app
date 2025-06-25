@@ -6,17 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6ddd1c5f-81fb-421a-83b1-e3d20c02a9d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sentry-example-page/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/sentry-example-page/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CompanionComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CompanionComponent.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CompanionsList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CompanionsList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/actions/companion.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/companion.actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentry.edge.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sentry.edge.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentry.server.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sentry.server.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/my-journey/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/my-journey/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NavItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/NavItems.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +91,9 @@
       <workItem from="1750349900695" duration="3005000" />
       <workItem from="1750400012247" duration="388000" />
       <workItem from="1750494376712" duration="1657000" />
-      <workItem from="1750736124162" duration="1477000" />
+      <workItem from="1750736124162" duration="2233000" />
+      <workItem from="1750755339807" duration="1739000" />
+      <workItem from="1750827202059" duration="685000" />
     </task>
     <servers />
   </component>
